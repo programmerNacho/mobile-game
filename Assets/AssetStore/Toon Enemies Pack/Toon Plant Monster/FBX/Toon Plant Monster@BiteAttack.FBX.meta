@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 3cf7cd054e5aa794f91183785e78e2f7
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Rig
+    100002: RigHead
+    100004: RigHeadGizmo
+    100006: RigLBackLeg1
+    100008: RigLBackLeg2
+    100010: RigLBackLegAnkle
+    100012: RigLBackLegPlatform
+    100014: RigLeafBack
+    100016: RigLeafBackGizmo
+    100018: RigLeafFrontGizmo
+    100020: RigLeafLeft
+    100022: RigLeafLeftGizmo
+    100024: RigLeafRight
+    100026: RigLeafRightGizmo
+    100028: RigLeftFront
+    100030: RigLFrontLeg1
+    100032: RigLFrontLeg2
+    100034: RigLFrontLegAnkle
+    100036: RigLFrontLegPlatform
+    100038: RigMouthLeft
+    100040: RigMouthLeftGizmo
+    100042: RigMouthRight
+    100044: RigMouthRightGizmo
+    100046: RigNeck1
+    100048: RigNeck2
+    100050: RigPelvis
+    100052: RigPelvisGizmo
+    100054: RigRBackLeg1
+    100056: RigRBackLeg2
+    100058: RigRBackLegAnkle
+    100060: RigRBackLegPlatform
+    100062: RigRFrontLeg1
+    100064: RigRFrontLeg2
+    100066: RigRFrontLegAnkle
+    100068: RigRFrontLegPlatform
+    100070: Toon Plant Monster
+    100072: //RootNode
+    400000: Rig
+    400002: RigHead
+    400004: RigHeadGizmo
+    400006: RigLBackLeg1
+    400008: RigLBackLeg2
+    400010: RigLBackLegAnkle
+    400012: RigLBackLegPlatform
+    400014: RigLeafBack
+    400016: RigLeafBackGizmo
+    400018: RigLeafFrontGizmo
+    400020: RigLeafLeft
+    400022: RigLeafLeftGizmo
+    400024: RigLeafRight
+    400026: RigLeafRightGizmo
+    400028: RigLeftFront
+    400030: RigLFrontLeg1
+    400032: RigLFrontLeg2
+    400034: RigLFrontLegAnkle
+    400036: RigLFrontLegPlatform
+    400038: RigMouthLeft
+    400040: RigMouthLeftGizmo
+    400042: RigMouthRight
+    400044: RigMouthRightGizmo
+    400046: RigNeck1
+    400048: RigNeck2
+    400050: RigPelvis
+    400052: RigPelvisGizmo
+    400054: RigRBackLeg1
+    400056: RigRBackLeg2
+    400058: RigRBackLegAnkle
+    400060: RigRBackLegPlatform
+    400062: RigRFrontLeg1
+    400064: RigRFrontLeg2
+    400066: RigRFrontLegAnkle
+    400068: RigRFrontLegPlatform
+    400070: Toon Plant Monster
+    400072: //RootNode
+    4300000: Toon Plant Monster
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Toon Plant Monster
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 3c3db0d1e320d9b4688c9621f279f864,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

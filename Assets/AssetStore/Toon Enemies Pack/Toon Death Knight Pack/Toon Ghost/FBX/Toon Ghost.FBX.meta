@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 009f95c1118598646a4d8f1358f6162f
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Rig
+  - first:
+      1: 100004
+    second: RigHead
+  - first:
+      1: 100006
+    second: RigHeadGizmo
+  - first:
+      1: 100008
+    second: RigMouthDown
+  - first:
+      1: 100010
+    second: RigMouthDownGizmo
+  - first:
+      1: 100012
+    second: RigMouthUp
+  - first:
+      1: 100014
+    second: RigMouthUpGizmo
+  - first:
+      1: 100016
+    second: RigNeck
+  - first:
+      1: 100018
+    second: RigRibcage
+  - first:
+      1: 100020
+    second: RigRibcageGizmo
+  - first:
+      1: 100022
+    second: RigTail1
+  - first:
+      1: 100024
+    second: RigTail1Gizmo
+  - first:
+      1: 100026
+    second: RigTail2
+  - first:
+      1: 100028
+    second: RigTail2Gizmo
+  - first:
+      1: 100030
+    second: RigTail3
+  - first:
+      1: 100032
+    second: RigTail3Gizmo
+  - first:
+      1: 100034
+    second: Toon Ghost
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Rig
+  - first:
+      4: 400004
+    second: RigHead
+  - first:
+      4: 400006
+    second: RigHeadGizmo
+  - first:
+      4: 400008
+    second: RigMouthDown
+  - first:
+      4: 400010
+    second: RigMouthDownGizmo
+  - first:
+      4: 400012
+    second: RigMouthUp
+  - first:
+      4: 400014
+    second: RigMouthUpGizmo
+  - first:
+      4: 400016
+    second: RigNeck
+  - first:
+      4: 400018
+    second: RigRibcage
+  - first:
+      4: 400020
+    second: RigRibcageGizmo
+  - first:
+      4: 400022
+    second: RigTail1
+  - first:
+      4: 400024
+    second: RigTail1Gizmo
+  - first:
+      4: 400026
+    second: RigTail2
+  - first:
+      4: 400028
+    second: RigTail2Gizmo
+  - first:
+      4: 400030
+    second: RigTail3
+  - first:
+      4: 400032
+    second: RigTail3Gizmo
+  - first:
+      4: 400034
+    second: Toon Ghost
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      23: 2300002
+    second: Toon Ghost
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      33: 3300002
+    second: Toon Ghost
+  - first:
+      43: 4300000
+    second: Toon Ghost
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Toon Ghost
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - b361f69b996414a47ba45dabb681651e
+  - 480ec89c5b86f9a4ea59e51b0e4f70b6
+  - 6cbf28900e70d4b4fa7118ea3f4065de
+  - a478a431df66c1d4e8b931744f232e76
+  - 7f7ec6266c4f0ae45b80693601ef01a1
+  - 9cb310d4eb9f12d488752f7b2485075e
+  - e3d0c6e34bd21744ea65769c9f42a293
+  - 64b130d1e1d4d0f4fa86e940df4467ec
+  - da15659a67a94bb4a866c58752d5ce02
+  - 363df4824216e7949ac2404edf732fb1
+  - 8aaee5287738a0a4593a617a7d7194d8
+  - b28be11d84f26194daa4672813cfd9ed
+  - 395b43a778a584d41a123c74d68a9126
+  - 9f9693cebe8d0794daf7bb2bfcbbe617
+  - b8c699b1ac38c3f409b3ec7360b3c3cb
+  - 49926f608832b2b4a9d698c6d6515894
+  - 8247000bb5e981847a6e4e51d3ec853f
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

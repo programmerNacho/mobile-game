@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 71e5bf57b3f36df43a6a0a42fcfa63fc
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Dummy-LHandWeapon
+    100002: Dummy-RHandWeapon
+    100004: Rig
+    100006: RigCape1
+    100008: RigCape1Gizmo
+    100010: RigCape2
+    100012: RigCape2Gizmo
+    100014: RigCape3
+    100016: RigCape3Gizmo
+    100018: RigHead
+    100020: RigHeadGizmo
+    100022: RigHeadTop
+    100024: RigHeadTopGizmo
+    100026: RigLArm1
+    100028: RigLArm1Gizmo
+    100030: RigLArm2
+    100032: RigLArm2Gizmo
+    100034: RigLArmPalm
+    100036: RigLArmPalmGizmo
+    100038: RigLLeg1
+    100040: RigLLeg2
+    100042: RigLLegAnkle
+    100044: RigLLegFoot1
+    100046: RigLLegPlatform
+    100048: RigNeck
+    100050: RigPelvis
+    100052: RigPelvisGizmo
+    100054: RigRArm1
+    100056: RigRArm1Gizmo
+    100058: RigRArm2
+    100060: RigRArm2Gizmo
+    100062: RigRArmPalm
+    100064: RigRArmPalmGizmo
+    100066: RigRibcage
+    100068: RigRibcageGizmo
+    100070: RigRLeg1
+    100072: RigRLeg2
+    100074: RigRLegAnkle
+    100076: RigRLegFoot1
+    100078: RigRLegPlatform
+    100080: RigSpine1
+    100082: RigSpine2
+    100084: Sword
+    100086: Toon Death Knight
+    100088: //RootNode
+    400000: Dummy-LHandWeapon
+    400002: Dummy-RHandWeapon
+    400004: Rig
+    400006: RigCape1
+    400008: RigCape1Gizmo
+    400010: RigCape2
+    400012: RigCape2Gizmo
+    400014: RigCape3
+    400016: RigCape3Gizmo
+    400018: RigHead
+    400020: RigHeadGizmo
+    400022: RigHeadTop
+    400024: RigHeadTopGizmo
+    400026: RigLArm1
+    400028: RigLArm1Gizmo
+    400030: RigLArm2
+    400032: RigLArm2Gizmo
+    400034: RigLArmPalm
+    400036: RigLArmPalmGizmo
+    400038: RigLLeg1
+    400040: RigLLeg2
+    400042: RigLLegAnkle
+    400044: RigLLegFoot1
+    400046: RigLLegPlatform
+    400048: RigNeck
+    400050: RigPelvis
+    400052: RigPelvisGizmo
+    400054: RigRArm1
+    400056: RigRArm1Gizmo
+    400058: RigRArm2
+    400060: RigRArm2Gizmo
+    400062: RigRArmPalm
+    400064: RigRArmPalmGizmo
+    400066: RigRibcage
+    400068: RigRibcageGizmo
+    400070: RigRLeg1
+    400072: RigRLeg2
+    400074: RigRLegAnkle
+    400076: RigRLegFoot1
+    400078: RigRLegPlatform
+    400080: RigSpine1
+    400082: RigSpine2
+    400084: Sword
+    400086: Toon Death Knight
+    400088: //RootNode
+    2300000: Sword
+    3300000: Sword
+    4300000: Sword
+    4300002: Toon Death Knight
+    7400000: CastSpell
+    9500000: //RootNode
+    13700000: Toon Death Knight
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CastSpell
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: cd607b25707b277428da92110da3cbda,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
